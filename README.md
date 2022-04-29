@@ -9,3 +9,4 @@
 Base de dados:
 * `python manage.py makemigrations` cria comandos sql para modificar base de dados, de acordo com o models 
 * `python manage.py migrate` executa comandos sql para modificar base de dados 
+* só depois podemos manipular a base de dados no `admin`
